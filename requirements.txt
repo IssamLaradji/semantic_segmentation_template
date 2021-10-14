@@ -1,0 +1,7 @@
+git+https://github.com/IssamLaradji/sps@master#egg=sps
+git+https://github.com/IssamLaradji/sls@master#egg=sls
+git+https://github.com/IssamLaradji/ada_sls@master#egg=ada_sls
+# git+git://github.com/IssamLaradji/sps@master#egg=sps
+# git+git://github.com/IssamLaradji/sps@master#egg=sps
+# git+git://github.com/path/to/package-two@master#egg=package-two
+# git+git://github.com/path/to/package-two@master#egg=package-two
